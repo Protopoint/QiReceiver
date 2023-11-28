@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/~/Documents/EAGLE/projects/Protopoint/Qi_Charger/Qi-Receiver1.2.sch at 8/14/2023 15:19
+
+Qty Value    Device   Package  Parts                 Description                                      
+1   0402-LED 0402-LED 0402-SMT D1                                                                     
+1   1000Ω    0402-RES 0402-SMT R4                                                                     
+1   10kΩ     0402-RES 0402-SMT R1                                                                     
+2   10nF     0402-CAP 0402-SMT C3, C8                                                                 
+1   10uF     0402-CAP 0402-SMT C9                                                                     
+2   140Ω     0402-RES 0402-SMT R2, R3                                                                 
+2   470nF    0402-CAP 0402-SMT C4, C7                                                                 
+2   47nF     0402-CAP 0402-SMT C5, C6                                                                 
+1   BQ51013A BQ51013A BQ51013A U1                    BQ51013A ~ Texas Intruments Qi Wireless Receiver 
+5   TBD      0402-CAP 0402-SMT C1, C2, C10, C11, C12                                                  
